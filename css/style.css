@@ -1,5 +1,18 @@
-.banner {
-  background-image: url("http://www.quinnzshen.com/ideate/images/ideate-long.png");
-  width: 1074px;
-  height: 300px;
+h1 {
+  font-family: "Rokkitt", serif;
+  text-align: center; }
+
+a {
+  color: black;
+  text-decoration: none; }
+
+.wrapper {
+  width: 75%;
   margin: 0 auto; }
+  .wrapper .banner {
+    width: 50%;
+    height: auto;
+    display: block;
+    margin: 0 auto; }
+  .wrapper .event-info {
+    margin: 0 auto; }
